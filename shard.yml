@@ -9,7 +9,8 @@ authors:
 dependencies:
   cute:
     github: yb66/cute
-    version: ">= 0.3.1"
+    version: ">= 0.3.2"
+    branch: develop
 
 crystal: ">= 0.35.1, < 2.0.0"
 
